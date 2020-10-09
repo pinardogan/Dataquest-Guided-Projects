@@ -10,6 +10,6 @@ In this guided project, I classified the dataset into two boxes. I also cleaned 
 
 Using Pandas and NumPy libraries, I renamed the column names, check the value counts and decided to drop some of the columns with unnecessary/no information. Replaced the symbols in some columns (such as "$") and changed the data types into numerical types in order to be able to sort values or make mathematical operations on them. I also excluded some outlier values. I gained the ability to analyze the overall dataset and then deep dive into values and be able to narrow down the dataset into a meaningful way. 
 
-**P09** - [Analyzing CIA Factbook Data Using SQL] (https://app.dataquest.io/m/257/guided-project%3A-analyzing-cia-factbook-data-using-sql/1/jupyter)
+**P09** - [Analyzing CIA Factbook Data Using SQL](https://app.dataquest.io/m/257/guided-project%3A-analyzing-cia-factbook-data-using-sql)
 
 In this first project of SQL, I analyzed the dataset that belongs to CIA's World Factbook. The dataset contains information such as the population, area, birth rate, death rate etc of the countries all over the world. I had the chance to use Jupyter Notebook for SQL for the first time and found out the most populated country, countries that have more water area than land area, I found outliers (such as a row for World, so I excluded this row for my queries). I practised nested queries. 
